@@ -1,0 +1,357 @@
+1542554251922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zGgZTnPgHHC3"
+1542554261651	Marionette	INFO	Listening on port 38257
+1542554261676	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14208): dconf-WARNING **: 23:17:46.350: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+
+(/usr/lib/firefox/firefox:14208): dconf-CRITICAL **: 23:17:46.350: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:14208): dconf-CRITICAL **: 23:17:46.351: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:14208): dconf-CRITICAL **: 23:17:46.351: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:14208): dconf-CRITICAL **: 23:17:46.351: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:14208): dconf-CRITICAL **: 23:17:46.352: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+1542554267638	Marionette	INFO	Stopped listening on port 38257
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 14070, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-M7GLkW/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14070, Gecko_IOThread] WARNING: pipe error (93): 连接被对方重设: file /build/firefox-M7GLkW/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542554274569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uO4MHaPw0moS"
+1542554277986	Marionette	INFO	Listening on port 38717
+1542554278139	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15064): dconf-WARNING **: 23:17:59.812: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+1542554281631	Marionette	INFO	Stopped listening on port 38717
+[Parent 14956, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-M7GLkW/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1542595735049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X9TgdV5keUEx"
+1542595747750	Marionette	INFO	Listening on port 40515
+1542595747879	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11810): dconf-WARNING **: 10:49:16.412: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+
+(/usr/lib/firefox/firefox:11810): dconf-CRITICAL **: 10:49:16.413: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:11810): dconf-CRITICAL **: 10:49:16.414: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:11810): dconf-CRITICAL **: 10:49:16.414: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:11810): dconf-CRITICAL **: 10:49:16.414: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:11810): dconf-CRITICAL **: 10:49:16.415: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:11810): dconf-CRITICAL **: 10:49:22.909: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:11810): dconf-CRITICAL **: 10:49:22.911: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:11810): dconf-CRITICAL **: 10:49:23.469: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:11810): dconf-CRITICAL **: 10:49:23.470: unable to create directory '/run/user/1000/snap.pycharm-professional/dconf': 权限不够.  dconf will not work properly.
+[Parent 11650, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-M7GLkW/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11650, Gecko_IOThread] WARNING: pipe error (56): 连接被对方重设: file /build/firefox-M7GLkW/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542595767908	Marionette	INFO	Stopped listening on port 40515
+1542595958614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LsFxwUy9XNaa"
+1542595975469	Marionette	INFO	Listening on port 36431
+1542595975732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+
+(/usr/lib/firefox/firefox:13639): dconf-WARNING **: 10:53:11.064: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+1542596050282	Marionette	INFO	Stopped listening on port 36431
+1543058310121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XYrXadHUqlgl"
+1543058323588	Marionette	INFO	Listening on port 46539
+1543058323766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+1543058411509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3Sl3ps1BweX0"
+1543058416729	Marionette	INFO	Listening on port 43209
+1543058416827	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20665, Gecko_IOThread] WARNING: pipe error (77): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20665, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543058434383	Marionette	INFO	Stopped listening on port 46539
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 21971, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 21971, Gecko_IOThread] WARNING: pipe error (64): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543058585775	Marionette	INFO	Stopped listening on port 43209
+1543058589883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5umKIyWPivRi"
+1543058593572	Marionette	INFO	Listening on port 40237
+1543058593600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 23037, Gecko_IOThread] WARNING: pipe error (39): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543058778856	Marionette	INFO	Stopped listening on port 40237
+1543058780529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jc9JblzshbLT"
+1543058783848	Marionette	INFO	Listening on port 46045
+1543058784040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543058813984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g2TUa4Fs6bVd"
+1543058817785	Marionette	INFO	Listening on port 36695
+1543058817806	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24935): dconf-WARNING **: 19:27:02.234: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 24829, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24829, Gecko_IOThread] WARNING: pipe error (170): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543058878562	Marionette	INFO	Stopped listening on port 36695
+1543058913074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sZQ4raDlHeuK"
+1543058918367	Marionette	INFO	Listening on port 37511
+1543058918407	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26004): dconf-WARNING **: 19:28:42.336: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 25892, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25892, Gecko_IOThread] WARNING: pipe error (63): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25892, Gecko_IOThread] WARNING: pipe error (167): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25892, Gecko_IOThread] WARNING: pipe error (119): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543058934272	Marionette	INFO	Stopped listening on port 37511
+1543058950979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Be4vexKo71pK"
+1543058954431	Marionette	INFO	Listening on port 45935
+1543058954580	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26920): dconf-WARNING **: 19:29:18.228: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+[Parent 26807, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 26807, Gecko_IOThread] WARNING: pipe error (92): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 26807, Gecko_IOThread] WARNING: pipe error (113): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543058967336	Marionette	INFO	Stopped listening on port 45935
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 23982, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 23982, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543059006767	Marionette	INFO	Stopped listening on port 46045
+1543059558936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ubQporRLTizS"
+1543059563544	Marionette	INFO	Listening on port 40759
+1543059563553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543059586725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7CB5bleUhuFg"
+1543059590446	Marionette	INFO	Listening on port 39615
+1543059590724	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30010): dconf-WARNING **: 19:39:56.113: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+[Parent 28941, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 28941, Gecko_IOThread] WARNING: pipe error (102): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1543059621559	Marionette	INFO	Stopped listening on port 40759
+1543059633456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IlMosHVM4zb6"
+1543059638242	Marionette	INFO	Listening on port 45269
+1543059638285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543059707769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WCJSxF0BFsVw"
+1543059712138	Marionette	INFO	Listening on port 34791
+1543059712220	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32029): dconf-WARNING **: 19:41:55.995: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+[Child 32029, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31920, Gecko_IOThread] WARNING: pipe error (62): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31920, Gecko_IOThread] WARNING: pipe error (170): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31920, Gecko_IOThread] WARNING: pipe error (117): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31920, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543059728126	Marionette	INFO	Stopped listening on port 34791
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 29899, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 29899, Gecko_IOThread] WARNING: pipe error (95): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543059750336	Marionette	INFO	Stopped listening on port 39615
+[Parent 30825, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 30825, Gecko_IOThread] WARNING: pipe error (41): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543059751417	Marionette	INFO	Stopped listening on port 45269
+1543059921138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s2W49nPEPu9l"
+1543059924572	Marionette	INFO	Listening on port 38059
+1543059924705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 147: unreachable code after return statement
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 588, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 588, Gecko_IOThread] WARNING: pipe error (113): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543060066889	Marionette	INFO	Stopped listening on port 38059
+1543060087130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZNYkMKWb6BbZ"
+1543060090449	Marionette	INFO	Listening on port 44737
+1543060090588	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1980): dconf-WARNING **: 19:48:14.286: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+1543060210997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jlzoe3c4zTJX"
+1543060214910	Marionette	INFO	Listening on port 35777
+1543060214931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543060217042	Marionette	INFO	Stopped listening on port 44737
+
+(/usr/lib/firefox/firefox:3064): dconf-WARNING **: 19:50:19.016: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 2947, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 2947, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 2947, Gecko_IOThread] WARNING: pipe error (165): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543060248159	Marionette	INFO	Stopped listening on port 35777
+1543060252815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5NVN4VIgZHPX"
+1543060256292	Marionette	INFO	Listening on port 36309
+1543060256330	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4066): dconf-WARNING **: 19:51:00.065: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3954, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 3954, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543060265762	Marionette	INFO	Stopped listening on port 36309
+1543060313249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eJdRXwX7hCTN"
+1543060316490	Marionette	INFO	Listening on port 43577
+1543060316645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4840, Gecko_IOThread] WARNING: pipe error (84): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 4840, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543060456174	Marionette	INFO	Stopped listening on port 43577
+1543060579812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hvBf6VVy5ybw"
+1543060583668	Marionette	INFO	Listening on port 43835
+1543060583847	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 6526, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6526, Gecko_IOThread] WARNING: pipe error (99): 连接被对方重设: file /build/firefox-4jpYyn/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543060617374	Marionette	INFO	Stopped listening on port 43835
+1543060618637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NNM7SNlpVTkZ"
+1543060622334	Marionette	INFO	Listening on port 38177
+1543060622355	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7518): dconf-WARNING **: 19:57:10.439: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1543063705305	Marionette	INFO	Stopped listening on port 38177

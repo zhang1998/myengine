@@ -1,0 +1,41 @@
+* 我用的搜索框
+一个我用的搜索框，直接调用
+使用pyqt5+selenium
+在固定平台内部实现搜索
+平台页存在不能内部搜索的情况 使用百度site方法
+帮助自己找到需要的部分：app 答案  资料
+
+** 具体方案
+三个部分
+查资料：
+查问题：
+** TODO ui界面
+**** 两层
+**** 任务二：搜索测试
+
+** TODO 测试selenium新建标签页
+   [[file:testweb/testtab.py][testtab]]
+
+*** DONE 新建
+    CLOSED: [2018-11-27 二 22:48]
+    :LOGBOOK:
+    - State "DONE"       from ""           [2018-11-27 二 22:48]
+    :END:
+
+*** DONE 两个标签，两个行为
+    CLOSED: [2018-11-28 三 15:39]
+    :LOGBOOK:
+    - State "DONE"       from ""           [2018-11-28 三 15:39]
+    :END:
+    一个进入git
+    一个进入百度
+
+*** 循环搜搜建立
+    [[file:testweb/test3.py][test3.py]] :测试循环搜索建立
+
+* 嵌入网站的搜索框
+平台页存在不能内部搜索的情况 使用百度site方法
+帮助自己找到需要的部分：app 答案  资料
+工程习惯
+* 备注
+访问github超慢
